@@ -1,8 +1,7 @@
-## Olá! Eu sou o Tiago Gonçalves 
+## Olá! Eu sou o Tiago 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+👨‍🎓 Estudante apaixnado por programação     
+💻Front-End 
 
 <div>
   <a href="https://github.com/tgogoncalves">
