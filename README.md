@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Tiago 
 
 👨‍🎓 Estudante apaixonado por programação     
-💻 Front-End 
+💻 Back-End 
 
 <div>
   <a href="https://github.com/tgosgoncalves">
