@@ -1,9 +1,13 @@
 ### Oi! Eu sou o Tiago
 
 :green_heart: Estudante que se apaixonou por desenvolvimento
+
 👨‍🎓 Ciências de Dados 1/8
+
 :snake: Linguagem favorita: Python
-💻 Back-End 
+
+💻 Back-End
+
 
 
 <div>
