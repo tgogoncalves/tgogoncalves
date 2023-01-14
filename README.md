@@ -1,13 +1,34 @@
-## Olá! Eu sou o Tiago 
+### Oi! Eu sou o Tiago
 
-👨‍🎓 Estudante apaixonado por programação     
+:green_heart: Estudante que se apaixonou por desenvolvimento
+👨‍🎓 Ciências de Dados 1/8
+:snake: Linguagem favorita: Python
 💻 Back-End 
 
+
 <div>
-  <a href="https://github.com/tgosgoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tgosgoncalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgosgoncalves&layout=compact&langs_count=7&theme=dracula"/>
-    
-  ![Snake animation](https://github.com/tgosgoncalves/tgosgoncalves/blob/output/github-contribution-grid-snake.svg)
+  
+  
+ <a href="https://www.linkedin.com/in/tgosgoncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
+
+![tgosgoncalves GitHub stats](https://github-readme-stats.vercel.app/api?username=tgosgoncalves&show_icons=true&theme=dracula)
+
+
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+ <img align="center" alt="r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+ <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />     
+ <img align="center" alt="gith" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img align="center" alt="dj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+ <img align="center" alt="ub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+ 
+  </div>
+  
