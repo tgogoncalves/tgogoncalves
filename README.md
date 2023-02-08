@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Tiago
 
-:green_heart: Estudante que se apaixonou por desenvolvimento
+:green_heart: Atualmente estou aprendendo desenvolvimento para Ciência de Dados
 
 👨‍🎓 Ciências de Dados 1/8
 
