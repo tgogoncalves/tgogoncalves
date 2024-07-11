@@ -1,8 +1,8 @@
 ### Oi! Eu sou o Tiago
 
-:green_heart: Atualmente estou aprendendo desenvolvimento para Ciência de Dados
+:green_heart: Aprendendo desenvolvimento para Ciência de Dados
 
-👨‍🎓 Ciências de Dados 1/8
+👨‍🎓 Ciências de Dados 3/8
 
 :snake: Linguagem favorita: Python
 
